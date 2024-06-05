@@ -1,0 +1,62 @@
+{
+    "Campers": [
+        {
+            "ID": "1098790118",
+            "Nombres": "santiago",
+            "Apellidos": "gomez",
+            "Direccion": "calle 108",
+            "Acudiente": "nora",
+            "Telefonos": "3183311706",
+            "Estado": "Aprobado",
+            "Riesgo": "-",
+            "Promedio": 63.0
+        }
+    ],
+    "Trainers": [
+        {
+            "ID": "100136896",
+            "Nombres": "juan",
+            "Apellidos": "mari\u00f1o",
+            "Direccion": "cra 32",
+            "Telefonos": "3215647895"
+        }
+    ],
+    "Areas": [
+        {
+            "ID": "1",
+            "Nombre": "artemis"
+        },
+        {
+            "ID": "2",
+            "Nombre": "apolo"
+        }
+    ],
+    "Rutas": [
+        {
+            "ID": "1",
+            "Nombre": "Java"
+        },
+        {
+            "ID": "Java",
+            "Nombre": "Java"
+        },
+        {
+            "ID": "2",
+            "Nombre": "NodeJs"
+        }
+    ],
+    "Matriculas": [
+        {
+            "ID": "1",
+            "Camper": "santiago gomez",
+            "Trainer": "juan mari\u00f1o",
+            "Ruta": "Java",
+            "Fecha_inicio": "25",
+            "Fecha_finalizacion": "25",
+            "Areas": "artemis",
+            "Promedio": 70.0,
+            "Estado": "Aprobado",
+            "Riesgo": "Bajo"
+        }
+    ]
+}
